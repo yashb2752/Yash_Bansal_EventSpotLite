@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/eventlisting.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/eventcard.tsx","./src/components/eventmodal.tsx","./src/components/loadingspinner.tsx","./src/components/ui/card.tsx","./src/components/ui/dialog.tsx","./src/components/ui/input.tsx","./src/hooks/useevents.ts","./src/lib/utils.ts","./src/types/event.ts"],"version":"5.6.3"}
